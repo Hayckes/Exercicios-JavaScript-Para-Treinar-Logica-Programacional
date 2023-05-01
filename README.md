@@ -23,11 +23,11 @@ Cada nível contém um conjunto de perguntas para que os usuários possam ler e 
 
 As atividades que aqui se encontram não foram elaboradas por mim(criador do repositorio), minhas fontes foram sites, cursos e videos que acessei!
 
-# Obs_2:
+## Obs_2:
 
 Esse repositorio esta em desenvolvimento, pretendo ir adicionando exercicios de todos os niveis com o tempo.
 
-# Obs_3:
+## Obs_3:
 
 Em algumas questões vou está colocando mais um codigo de resolução, o codigo principal será relacionado a forma que eu(criador do repositorio) resolvi o desafio, e o/os demais codigos serão realcionados a resoluções que encontrei e achei mais eficaz/pratica!
 
