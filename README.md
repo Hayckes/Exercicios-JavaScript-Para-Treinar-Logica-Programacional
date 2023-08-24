@@ -8,7 +8,7 @@ Cada nível contém um conjunto de requisitos para que os usuários possam ler e
 
 # Sugestão
 
-Em cada pasta de cada questão você encontrará 3 arquivos, um será o problema a ser resolvido, outro será a resolução e outro a explicação da resolução.
+Em cada pasta de cada questão você encontrará pelo menos 3 arquivos, um será o problema a ser resolvido, outro será a resolução e outro a explicação da resolução.
 Para que você realmente treine a logica programacional, é necessario que você abra primeiro o arquivo do problema a ser resolvido, leia, e tente resolver do seu jeito,
 caso, após tentar, não consiga resolver, recomendo que olhe o arquivo de ``` Resolução_questão_x ```, e caso não entenda o codigo, acesse o arquivo de ``` Expicação Questão_x ```, para entender o funcionamento do codigo proposto.
 
