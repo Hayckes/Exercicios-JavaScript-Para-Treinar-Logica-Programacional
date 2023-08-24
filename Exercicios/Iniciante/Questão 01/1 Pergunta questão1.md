@@ -4,7 +4,7 @@
   números inteiros como argumentos e retorne a média
   aritmética entre eles.
 
-- Entredas sugeridas para testar o codigo
+- Entradas sugeridas para testar o codigo
 
   ```
   Entrada (10, 9, 6, 8, 9, 1, 5, 7);
